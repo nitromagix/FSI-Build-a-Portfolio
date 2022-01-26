@@ -27,7 +27,7 @@ h3{
     border-radius: 5px;
 }
 
-.cphoto img::after{
+.photo img::after{
     clear:both;
 }
 
