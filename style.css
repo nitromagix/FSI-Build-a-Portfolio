@@ -5,6 +5,11 @@ hr{
 
 p{
     font-size: 12px;
+    text-indent: 10px;
+}
+
+h3{
+    text-decoration: underline;
 }
 
 .bio{
@@ -34,10 +39,10 @@ p{
     background-color:azure;
 }
 
-/* .subsection-text{
-
+.noindent{
+    text-indent: 0px !important; 
 }
-*/
+
 
 #Statement{
     font-family: monospace;
@@ -53,4 +58,5 @@ p{
 
 #ContactHeader{
     color:teal;
+
 }
