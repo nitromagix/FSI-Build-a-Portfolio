@@ -1,0 +1,66 @@
+hr{
+    border: outset 1px white ;
+    width: 100%;
+}
+
+p{
+    font-size: 12px;
+    text-indent: 10px;
+}
+
+h1, h2, h3 {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+.bio{
+    float: left;
+}
+
+.photo{
+    float: right;
+}
+
+.photo img{
+    height: 117px;
+    width: 135px;
+    border:1px solid black;
+    border-radius: 5px;
+}
+
+.clearboth{
+    clear:both;
+}
+
+.main-section{
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 10px;
+    background-color:azure;
+}
+
+.noindent{
+    text-indent: 0px !important; 
+}
+
+
+#Statement{
+    font-family: monospace;
+}
+
+#ProjectsHeader{
+    color:steelblue;
+}
+
+#AboutHeader{
+    color:olive;
+}
+
+#ContactHeader{
+    color:teal;
+
+}
+
