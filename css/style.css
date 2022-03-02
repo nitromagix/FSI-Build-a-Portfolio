@@ -16,6 +16,15 @@ h3{
     text-decoration: underline;
 }
 
+nav ul{
+   display: inline-flex; 
+   list-style-type: none;
+}
+
+nav ul li{
+   padding: 10px;
+}
+
 .bio{
     float: left;
 }
@@ -67,4 +76,5 @@ h3{
     color:teal;
 
 }
+
 
