@@ -23,6 +23,16 @@ nav ul{
 
 nav ul li{
    padding: 10px;
+   margin: 2px;
+   background-color:cadetblue;
+}
+
+nav ul li:hover{
+   background-color:white;
+}
+
+nav ul li a{
+   color:midnightblue;
 }
 
 .bio{
